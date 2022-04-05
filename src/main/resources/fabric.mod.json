@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "better-snowball-fight",
+  "version": "0.1",
+
+  "name": "Better Snowball Fight",
+  "description": "This mod allows you to enjoy snowball fights better",
+  "authors": ["Linngdu664"],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "All Right Reserved",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.linngdu664.bettersnowballfight.Main"
+    ],
+    "client": [
+      "com.linngdu664.bettersnowballfight.Client"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "mixins": [
+    "bsf.mixins.json"
+  ]
+}
