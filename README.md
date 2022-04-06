@@ -1,25 +1,29 @@
 ![head](README/head.png)
 
-简介
+Summary
 ==
----
-该模组加入了更多雪球种类、工具、武器等一系列物品，让你能更愉快地享受打雪仗的乐趣。
+This module adds more types of snowballs, tools, weapons and a host of other items to make snowball fights more enjoyable.
 
-~~小心被雪球打死~~
+~~Beware of being killed by snowball~~
 
-目前只支持mc1.18.2\
-需要fabirc运行，fabric-api作为前置mod\
-后续会更新更多内容以及版本移植
+Currently, only supported by mc1.18.2\
+Need fabric, use fabric-api as a front mod\
+More content and version porting will follow
 
+Creator：Linngdu664，zx1316
 
-第一个版本
+![](README/img1.png)
+
+First version
 ==
----
 * mod version: 1.0.0
 * minecraft version: 1.18.2
 * loader version: 0.13.3
 * fabric version: 0.47.8+1.18.2
 * compatibility level: JAVA_17
 
-
-
+Download
+==
+* [Gitee](https://gitee.com/Linngdu664/better-snowball-fight-mod/releases/1.18.2-v1.0.0-fabric)
+* [GitHub](https://github.com/linngdu664/Better-Snowball-Fight/releases/tag/v1.0.0-1.18.2-fabric)
+* [Baidu Netdisk](https://pan.baidu.com/s/16-kPypcNyjFEm3AzBwp6SA?pwd=lbpt)
