@@ -28,3 +28,8 @@ Download
 * [Gitee](https://gitee.com/Linngdu664/better-snowball-fight-mod/releases/1.18.2-v1.0.0-fabric)
 * [GitHub](https://github.com/linngdu664/Better-Snowball-Fight/releases/tag/v1.0.0-1.18.2-fabric)
 * [Baidu Netdisk](https://pan.baidu.com/s/16-kPypcNyjFEm3AzBwp6SA?pwd=lbpt)
+
+How to play
+==
+---
+* [Wiki](https://github.com/linngdu664/Better-Snowball-Fight/wiki)
