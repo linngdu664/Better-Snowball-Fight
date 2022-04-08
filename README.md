@@ -16,11 +16,13 @@ Creator：Linngdu664，zx1316
 
 First version
 ==
-* mod version: 1.0.0
+* mod version: 1.0.1
 * minecraft version: 1.18.2
 * loader version: 0.13.3
 * fabric version: 0.47.8+1.18.2
 * compatibility level: JAVA_17
+
+The source code here may not be up to date, if you want to get the latest source code please [click here](https://gitee.com/Linngdu664/better-snowball-fight-mod)
 
 Download
 ==
@@ -31,5 +33,5 @@ Download
 
 How to play
 ==
----
 * [Wiki](https://github.com/linngdu664/Better-Snowball-Fight/wiki)
+* [mcmod](https://www.mcmod.cn/class/6082.html)
